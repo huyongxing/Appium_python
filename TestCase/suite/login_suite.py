@@ -6,11 +6,11 @@
 # @File     : login_suite.py
 # @Software : PyCharm
 
-from test_case.case import *
-from test_case.case import login_case
+from TestCase.suite import *
+
 
 def suite():
     suite = unittest.TestSuite()
-    suite.addTest(login_case.Login_Case('home_page'))
+    suite.addTest(login_case.Login_Case('test_login'))
 
     return suite

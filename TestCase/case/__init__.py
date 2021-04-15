@@ -8,7 +8,12 @@
 
 import os
 import time
+import math
 import unittest
+import HTMLTestRunner
 from appium import webdriver
-from report import *
-from test_case.data import *
+from Report import *
+from TestCase.data import *
+from function import *
+from function.element import *
+from BeautifulReport import BeautifulReport

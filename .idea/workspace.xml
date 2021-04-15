@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3dbfad95-fa0c-4f4b-b5cf-17ecf61ec4ba" name="默认的" comment="默认的" />
+    <list default="true" id="3dbfad95-fa0c-4f4b-b5cf-17ecf61ec4ba" name="默认的" comment="默认的">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function/driver/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/function/driver/__init__.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/Report/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="415">
-              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+              <caret line="71" selection-start-line="71" selection-end-line="71" />
               <folding>
                 <element signature="e#108#117#0" expanded="true" />
               </folding>
@@ -87,8 +90,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/function/driver/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="220">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#108#138#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -177,7 +183,6 @@
         <option value="$PROJECT_DIR$/function/__init__.py" />
         <option value="$USER_HOME$/AppData/Local/Programs/Python/Python37-32/function.py" />
         <option value="$PROJECT_DIR$/function/config/Config.ini" />
-        <option value="$PROJECT_DIR$/function/driver/__init__.py" />
         <option value="$PROJECT_DIR$/report/__init__.py" />
         <option value="$PROJECT_DIR$/test_case/case/__init__.py" />
         <option value="$PROJECT_DIR$/test_case/__init__.py" />
@@ -195,6 +200,7 @@
         <option value="$PROJECT_DIR$/business/__init__.py" />
         <option value="$PROJECT_DIR$/business/ycysj_app/login.py" />
         <option value="$PROJECT_DIR$/Report/__init__.py" />
+        <option value="$PROJECT_DIR$/function/driver/__init__.py" />
       </list>
     </option>
   </component>
@@ -258,7 +264,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -491,7 +497,7 @@
       <workItem from="1618390099169" duration="305000" />
       <workItem from="1618390432433" duration="4125000" />
       <workItem from="1618394629538" duration="4130000" />
-      <workItem from="1618449204281" duration="13467000" />
+      <workItem from="1618449204281" duration="14177000" />
     </task>
     <task id="LOCAL-00001" summary="默认的">
       <created>1618307283084</created>
@@ -514,7 +520,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618467471996</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="默认的">
+      <created>1618467892301</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1618467892301</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -550,7 +563,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="463028000" />
+    <option name="totallyTimeSpent" value="463738000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -567,7 +580,7 @@
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.5005767" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.4994233" visible="true" weight="0.20575783" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.4994233" visible="true" weight="0.20575783" />
       <window_info id="DB Browser" order="3" weight="0.32889125" />
       <window_info anchor="bottom" id="DB Execution Console" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
@@ -579,8 +592,8 @@
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32827735" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32968238" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49929377" visible="true" weight="0.3277027" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5021322" side_tool="true" weight="0.31127983" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49788314" visible="true" weight="0.3277027" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50211686" side_tool="true" weight="0.3277027" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32932165" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32936078" />
@@ -867,13 +880,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/business/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/business/ycysj_app/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -898,17 +904,27 @@
     <entry file="file://$PROJECT_DIR$/Report/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="415">
-          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
           <folding>
             <element signature="e#108#117#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/business/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/function/driver/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="220">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#108#138#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

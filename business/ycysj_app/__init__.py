@@ -6,4 +6,5 @@
 # @File     : __init__.py.py
 # @Software : PyCharm
 
+from Report import *
 from TestCase.suite import login_suite

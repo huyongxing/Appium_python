@@ -1,8 +1,10 @@
 #!/usr/bin/env python
-# -*- coding:utf-8 -*-
-# author:zxchen
-# datetime:2020/1/8 12:52
-# software: PyCharm
+# -*- coding: utf-8 -*-
+# @Time:    : 2021/4/15 13:08
+# @Author   : huyx
+# @Site     :
+# @File     : __init__.py.py
+# @Software : PyCharm
 
 import os
 import time
@@ -33,7 +35,7 @@ class Report():
             sftp.mkdir("/home/wwwroot/report/" + file_name.split("\\")[-2])
             sftp.put(file_name, remote_file)
         finally:
-            return "http://report.huyx.saasyc.com/" + file_name.split("\\")[-2] + "/" + file_name.split("\\")[-1]
+            return "http://localhost:63342" + file_name.split("\\")[-2] + "/" + file_name.split("\\")[-1]
 
     def build_report(suite_tests, report_name, description):
         picture_time = time.strftime("%Y-%m-%d-%H_%M_%S", time.localtime(time.time()))

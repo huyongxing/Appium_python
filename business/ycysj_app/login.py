@@ -10,7 +10,7 @@ from business.ycysj_app import *
 
 if __name__ == '__main__':
     suite_tests=login_suite.suite()
-    report_name="REPORT"
+    report_name="测试报告"
     description="登录验证"
     result=Report.report(suite_tests,report_name,description)
     if result:

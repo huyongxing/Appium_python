@@ -6,6 +6,5 @@
 # @File     : __init__.py
 # @Software : PyCharm
 
-from TestCase.case import login_case
 from TestCase.case import *
-import unittest
+from TestCase.case import login_case

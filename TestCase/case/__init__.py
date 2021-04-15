@@ -15,4 +15,4 @@ from Report import *
 from TestCase.data import *
 from function import *
 from function.element import *
-from BeautifulReport import BeautifulReport
+# from selenium.webdriver.common.by import By

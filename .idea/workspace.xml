@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3dbfad95-fa0c-4f4b-b5cf-17ecf61ec4ba" name="默认的" comment="默认的">
+    <list default="true" id="3dbfad95-fa0c-4f4b-b5cf-17ecf61ec4ba" name="默认的" comment="修改">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Report/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Report/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function/config/Config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/function/config/Config.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCase/case/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCase/case/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCase/case/login_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCase/case/login_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCase/suite/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCase/suite/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCase/suite/login_suite.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCase/suite/login_suite.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,101 +31,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/business/ycysj_app/login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestCase/suite/login_suite.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TestCase/case/login_case.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+            <state relative-caret-position="396">
+              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/business/ycysj_app/__init__.py">
+        <entry file="file://$PROJECT_DIR$/TestCase/suite/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="6" selection-end-column="21" />
+            <state relative-caret-position="198">
+              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
               <folding>
-                <element signature="e#162#182#0" expanded="true" />
+                <element signature="e#159#186#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/business/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestCase/case/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Report/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="91" column="27" lean-forward="true" selection-start-line="91" selection-start-column="27" selection-end-line="91" selection-end-column="27" />
-              <folding>
-                <element signature="e#161#176#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/function/driver/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
-              <folding>
-                <element signature="e#108#138#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/function/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/function/config/Config.ini">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/function/config/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/BeautifulReport/BeautifulReport.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="354" column="8" selection-start-line="354" selection-start-column="8" selection-end-line="354" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -186,26 +129,27 @@
         <option value="$PROJECT_DIR$/test_case/suite/__init__.py" />
         <option value="$PROJECT_DIR$/test_case/suite/login_suite.py" />
         <option value="$PROJECT_DIR$/test_case/case/login_case.py" />
-        <option value="$PROJECT_DIR$/TestCase/case/login_case.py" />
         <option value="$PROJECT_DIR$/TestCase/__init__.py" />
-        <option value="$PROJECT_DIR$/TestCase/suite/__init__.py" />
-        <option value="$PROJECT_DIR$/TestCase/suite/login_suite.py" />
-        <option value="$PROJECT_DIR$/TestCase/case/__init__.py" />
         <option value="$PROJECT_DIR$/run.py" />
         <option value="$PROJECT_DIR$/business/login.py" />
         <option value="$PROJECT_DIR$/business/__init__.py" />
         <option value="$PROJECT_DIR$/function/driver/__init__.py" />
         <option value="$PROJECT_DIR$/business/ycysj_app/__init__.py" />
         <option value="$PROJECT_DIR$/business/ycysj_app/login.py" />
-        <option value="$PROJECT_DIR$/Report/__init__.py" />
         <option value="$PROJECT_DIR$/function/config/Config.ini" />
+        <option value="$PROJECT_DIR$/TestCase/suite/__init__.py" />
+        <option value="$PROJECT_DIR$/TestCase/case/__init__.py" />
+        <option value="$PROJECT_DIR$/Report/__init__.py" />
+        <option value="$PROJECT_DIR$/TestCase/suite/login_suite.py" />
+        <option value="$PROJECT_DIR$/TestCase/case/login_case.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="69" />
-    <option name="width" value="1241" />
-    <option name="height" value="972" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -235,22 +179,6 @@
             <path>
               <item name="Appium_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Appium_python" type="462c0819:PsiDirectoryNode" />
-              <item name="function" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Appium_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Appium_python" type="462c0819:PsiDirectoryNode" />
-              <item name="Report" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Appium_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Appium_python" type="462c0819:PsiDirectoryNode" />
-              <item name="Report" type="462c0819:PsiDirectoryNode" />
-              <item name="html" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Appium_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Appium_python" type="462c0819:PsiDirectoryNode" />
               <item name="TestCase" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -258,6 +186,12 @@
               <item name="Appium_python" type="462c0819:PsiDirectoryNode" />
               <item name="TestCase" type="462c0819:PsiDirectoryNode" />
               <item name="case" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Appium_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Appium_python" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCase" type="462c0819:PsiDirectoryNode" />
+              <item name="suite" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -269,7 +203,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Report" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TestCase/case/login_case.py" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -378,12 +312,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case/case" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase/case" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_case/case/login_case.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestCase/case/login_case.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -414,6 +348,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests for login_case.Login_Case" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;login_case.Login_Case&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests in login_case.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="untitled1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -435,12 +384,14 @@
       <item itemvalue="Python.login" />
       <item itemvalue="Python.login_suite" />
       <item itemvalue="Python tests.Unittests in login_case.py" />
+      <item itemvalue="Python tests.Unittests for login_case.Login_Case" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.login" />
-        <item itemvalue="Python.login_suite" />
+        <item itemvalue="Python tests.Unittests for login_case.Login_Case" />
         <item itemvalue="Python tests.Unittests in login_case.py" />
+        <item itemvalue="Python.login_suite" />
       </list>
     </recent_temporary>
   </component>
@@ -506,7 +457,7 @@
       <workItem from="1618390099169" duration="305000" />
       <workItem from="1618390432433" duration="4125000" />
       <workItem from="1618394629538" duration="4130000" />
-      <workItem from="1618449204281" duration="19314000" />
+      <workItem from="1618449204281" duration="29806000" />
     </task>
     <task id="LOCAL-00001" summary="默认的">
       <created>1618307283084</created>
@@ -550,28 +501,17 @@
       <option name="project" value="LOCAL" />
       <updated>1618470057593</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="修改">
+      <created>1618474891170</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1618474891170</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_login_case_py - 2021.04.14 at 10h 49m 58s.xml">
-      <configuration name="Unittests in login_case.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_login_case_py - 2021.04.14 at 18h 11m 52s.xml">
-      <configuration name="Unittests in login_case.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_login_case_py - 2021.04.14 at 18h 12m 35s.xml">
-      <configuration name="Unittests in login_case.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_login_case_py - 2021.04.14 at 18h 13m 32s.xml">
-      <configuration name="Unittests in login_case.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_login_case_py - 2021.04.14 at 18h 17m 54s.xml">
-      <configuration name="Unittests in login_case.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_login_case_py - 2021.04.14 at 18h 18m 39s.xml">
-      <configuration name="Unittests in login_case.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_login_case_py - 2021.04.14 at 18h 53m 31s.xml">
       <configuration name="Unittests in login_case.py" configurationId="tests" />
     </history-entry>
@@ -584,9 +524,27 @@
     <history-entry file="Unittests_in_login_case_py - 2021.04.15 at 10h 41m 27s.xml">
       <configuration name="Unittests in login_case.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_login_case_py - 2021.04.15 at 17h 07m 33s.xml">
+      <configuration name="Unittests in login_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_login_case_py - 2021.04.15 at 17h 09m 54s.xml">
+      <configuration name="Unittests in login_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_login_case_py - 2021.04.15 at 17h 10m 58s.xml">
+      <configuration name="Unittests in login_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_login_case_py - 2021.04.15 at 17h 12m 22s.xml">
+      <configuration name="Unittests in login_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_login_case_Login_Case - 2021.04.15 at 17h 12m 49s.xml">
+      <configuration name="Unittests for login_case.Login_Case" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_login_case_Login_Case - 2021.04.15 at 17h 13m 16s.xml">
+      <configuration name="Unittests for login_case.Login_Case" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="468875000" />
+    <option name="totallyTimeSpent" value="479367000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -598,26 +556,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="69" width="1241" height="972" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.5005767" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.4994233" visible="true" weight="0.20575783" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.4994233" visible="true" weight="0.12953092" />
       <window_info id="DB Browser" order="3" weight="0.32889125" />
       <window_info anchor="bottom" id="DB Execution Console" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32847533" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4978678" weight="0.3424821" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.3991323" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4978678" visible="true" weight="0.34164858" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.43275487" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" weight="0.32827735" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3275488" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3293556" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49788314" weight="0.3277027" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3286334" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49788314" weight="0.3275488" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50211686" side_tool="true" weight="0.3277027" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32932165" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286334" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -660,7 +618,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="默认的" />
-    <option name="LAST_COMMIT_MESSAGE" value="默认的" />
+    <MESSAGE value="修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/untitled1$cgi.coverage" NAME="cgi Coverage Results" MODIFIED="1615525040293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/www" />
@@ -677,15 +636,15 @@
     <SUITE FILE_PATH="coverage/untitled1$login.coverage" NAME="login Coverage Results" MODIFIED="1618299012193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/business/ycysj_app" />
     <SUITE FILE_PATH="coverage/untitled1$python_decimal_conversion.coverage" NAME="python_decimal_conversion Coverage Results" MODIFIED="1616053145446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/living_example" />
     <SUITE FILE_PATH="coverage/untitled1$demo_mysql_test.coverage" NAME="demo_mysql_test Coverage Results" MODIFIED="1615775744630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Appium_python$Unittests_in_login_case_py.coverage" NAME="Unittests in login_case.py Coverage Results" MODIFIED="1618454460545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/case" />
+    <SUITE FILE_PATH="coverage/Appium_python$Unittests_in_login_case_py.coverage" NAME="Unittests in login_case.py Coverage Results" MODIFIED="1618477940457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/case" />
     <SUITE FILE_PATH="coverage/untitled1$create_mysql_form.coverage" NAME="create_mysql_form Coverage Results" MODIFIED="1615776674610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled1$determine_odd_even.coverage" NAME="determine_odd_even Coverage Results" MODIFIED="1615951462244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/living_example" />
     <SUITE FILE_PATH="coverage/untitled1$determine_prime_number.coverage" NAME="determine_prime_number Coverage Results" MODIFIED="1615956081926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/living_example" />
     <SUITE FILE_PATH="coverage/untitled1$python_quadratic_equation.coverage" NAME="python_quadratic_equation Coverage Results" MODIFIED="1615873721926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/living_example" />
     <SUITE FILE_PATH="coverage/untitled1$login_suite.coverage" NAME="login_suite Coverage Results" MODIFIED="1618298704486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/suite" />
-    <SUITE FILE_PATH="coverage/Appium_python$login.coverage" NAME="login Coverage Results" MODIFIED="1618473034141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/business/ycysj_app" />
+    <SUITE FILE_PATH="coverage/Appium_python$login.coverage" NAME="login Coverage Results" MODIFIED="1618482727144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/business/ycysj_app" />
     <SUITE FILE_PATH="coverage/untitled1$calculate_circle_area.coverage" NAME="calculate_circle_area Coverage Results" MODIFIED="1615875350168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/living_example" />
-    <SUITE FILE_PATH="coverage/Appium_python$Unittests_for_login_case_Login_Case.coverage" NAME="Unittests for login_case.Login_Case Coverage Results" MODIFIED="1618368007588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/case" />
+    <SUITE FILE_PATH="coverage/Appium_python$Unittests_for_login_case_Login_Case.coverage" NAME="Unittests for login_case.Login_Case Coverage Results" MODIFIED="1618477995584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/case" />
     <SUITE FILE_PATH="coverage/untitled1$time_function_test.coverage" NAME="time_function_test Coverage Results" MODIFIED="1615864917952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled1$Unittests_for_ycysj_login_LoginTest.coverage" NAME="Unittests for ycysj_login.LoginTest Coverage Results" MODIFIED="1618281628283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Login" />
     <SUITE FILE_PATH="coverage/untitled1$determine_string_number.coverage" NAME="determine_string_number Coverage Results" MODIFIED="1615950009077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/living_example" />
@@ -700,7 +659,7 @@
     <SUITE FILE_PATH="coverage/untitled1$Unittests_in_ycysj_login_py.coverage" NAME="Unittests in ycysj_login.py Coverage Results" MODIFIED="1618280134739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Login" />
     <SUITE FILE_PATH="coverage/Appium_python$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1618392092949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function1/config" />
     <SUITE FILE_PATH="coverage/untitled1$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1615168907273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Appium_python$login_case.coverage" NAME="login_case Coverage Results" MODIFIED="1618451132108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case/case" />
+    <SUITE FILE_PATH="coverage/Appium_python$login_case.coverage" NAME="login_case Coverage Results" MODIFIED="1618480742178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/case" />
     <SUITE FILE_PATH="coverage/untitled1$determine_if_leap_year.coverage" NAME="determine_if_leap_year Coverage Results" MODIFIED="1615952598495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/living_example" />
     <SUITE FILE_PATH="coverage/untitled1$python_square_root.coverage" NAME="python_square_root Coverage Results" MODIFIED="1615872444487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/living_example" />
     <SUITE FILE_PATH="coverage/untitled1$python_random_randint.coverage" NAME="python_random_randint Coverage Results" MODIFIED="1615876403238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/living_example" />
@@ -727,8 +686,6 @@
     <SUITE FILE_PATH="coverage/untitled1$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1616579308721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alien_invasion" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test1.py" />
-    <entry file="file://$PROJECT_DIR$/living_example/englich_string_transition.py" />
     <entry file="file://$PROJECT_DIR$/living_example/python_isdigit.py" />
     <entry file="file://$PROJECT_DIR$/living_example/names.py" />
     <entry file="file://$PROJECT_DIR$/living_example/name_function.py" />
@@ -774,13 +731,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/function/element/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/function.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -802,13 +752,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestCase/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
@@ -823,23 +766,6 @@
           <folding>
             <element signature="e#68#130#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestCase/suite/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-          <folding>
-            <element signature="e#159#195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestCase/suite/login_suite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -885,23 +811,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/business/ycysj_app/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="6" selection-end-column="21" />
-          <folding>
-            <element signature="e#162#182#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/business/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/function/driver/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -912,55 +821,114 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/business/ycysj_app/login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function/config/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/function/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Report/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="91" column="27" lean-forward="true" selection-start-line="91" selection-start-column="27" selection-end-line="91" selection-end-column="27" />
-          <folding>
-            <element signature="e#161#176#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="220">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/function/config/Config.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/config/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1013">
+          <caret line="619" selection-start-line="619" selection-end-line="619" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/element/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="671" column="8" selection-start-line="671" selection-start-column="8" selection-end-line="671" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestCase/case/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/business/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Report/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="141" column="8" selection-start-line="141" selection-start-column="8" selection-end-line="141" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/suite/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding>
+            <element signature="e#159#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/business/ycysj_app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding>
+            <element signature="e#162#182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/suite/login_suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/business/ycysj_app/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestCase/case/login_case.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        <state relative-caret-position="396">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
         </state>
       </provider>
     </entry>

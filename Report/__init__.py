@@ -22,7 +22,7 @@ import time
 
 root_path = os.path.abspath(os.path.dirname(__file__)).split('Appium_python')[0]
 path = root_path + "\\Appium_python\\Report\\html\\"
-log_path = root_path + "Appium\\report\\logs\\"
+log_path = root_path + "Appium_python\\Report\\logs\\"
 directory_time = time.strftime("%Y-%m-%d-%H-%M-%S", time.localtime(time.time()))
 log_time = time.strftime("%Y-%m-%d", time.localtime(time.time()))
 send_email = get("email", "send_email")
@@ -115,7 +115,7 @@ class Report():
 class Logs():
     def __init__(self):
         try:
-            File_Path = root_path + '\\selenium_python\\report\\logs\\' + directory_time + '\\'
+            File_Path = root_path + '\\Appium_python\\Report\\logs\\' + directory_time + '\\'
             if not os.path.exists(File_Path):
                 os.makedirs(File_Path)
         except BaseException as msg:
@@ -140,13 +140,13 @@ class Logs():
 
 class Image():
     def catch_image(driver):
-        picture_time = time.strftime("%Y-%m-%d-%H_%M_%S", time.localtime(time.time()))
+        picture_time = time.strftime("%Y-%m-%d-%H-%M-%S", time.localtime(time.time()))
         directory_time = time.strftime("%Y-%m-%d", time.localtime(time.time()))
         # 打印文件目录
-        root_path = os.path.abspath(os.path.dirname(__file__)).split('selenium_python')[0]
+        root_path = os.path.abspath(os.path.dirname(__file__)).split('Appium_python')[0]
         # 获取到当前文件的目录，并检查是否有 directory_time 文件夹，如果不存在则自动新建 directory_time 文件
         try:
-            File_Path = root_path + '\\selenium_python\\report\\image\\' + directory_time + '\\'
+            File_Path = root_path + '\\Appium_python\\Report\\image\\' + directory_time + '\\'
             if not os.path.exists(File_Path):
                 os.makedirs(File_Path)
         except BaseException as msg:
@@ -154,7 +154,7 @@ class Image():
 
         try:
             driver.save_screenshot(
-                root_path + '\\selenium_python\\report\\image\\' + directory_time + '\\' + picture_time + '.png')
+                root_path + '\\Appium_python\\Report\\image\\' + directory_time + '\\' + picture_time + '.png')
         except BaseException as pic_msg:
             print("截图失败：%s" % pic_msg)
 

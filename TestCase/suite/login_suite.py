@@ -11,6 +11,8 @@ from TestCase.suite import *
 
 def suite():
     suite = unittest.TestSuite()
-    suite.addTest(login_case.Login_Case('test_login'))
+    # suite.addTest(login_case.Login_Case('test_login'))
+    suite.addTest(login_case.Login_Case('test_password_login_page'))
+    suite.addTest(login_case.Login_Case('test_sms_login_page'))
 
     return suite

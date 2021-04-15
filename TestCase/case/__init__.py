@@ -6,7 +6,6 @@
 # @File     : __init__.py
 # @Software : PyCharm
 
-import os
 import time
 import math
 import unittest
